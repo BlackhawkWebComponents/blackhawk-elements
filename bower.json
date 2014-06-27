@@ -4,6 +4,7 @@
     "dependencies": {
         "bd3-base": "BlackhawkWebComponents/bd3-base#master",
         "bd3-bar-chart": "BlackhawkWebComponents/bd3-bar-chart#master",
-        "bd3-horizontal-bar-chart": "BlackhawkWebComponents/bd3-horizontal-bar-chart#master"
+        "bd3-horizontal-bar-chart": "BlackhawkWebComponents/bd3-horizontal-bar-chart#master",
+        "arcgis-map": "BlackhawkWebComponents/arcgis-map#master"
     }
 }
